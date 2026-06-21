@@ -1,3 +1,11 @@
 {
-  "alunos": []
+  "alunos": [
+    {
+      "email": "admin@deivid.com",
+      "senha": "senha123",
+      "modulos": [
+        0
+      ]
+    }
+  ]
 }
